@@ -1,0 +1,51 @@
+.letter-container {
+    padding-top: 0.5in;
+}
+
+
+
+.letter-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/*
+.spacing-one {
+    width: 1in;
+    height: 2.5in;
+}
+*/
+
+.spacing-half {
+    width: 0.5in;
+    height: 2.5in;
+}
+
+.spacing-half-height {
+    width: 100%;
+    height: 0.5in;
+}
+
+.letter-box {
+    width: 3.2in;
+    height: 2.5in;
+
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.letter {
+    font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 121px;
+}
+
+.test1{
+    background-color: #6aaa64;
+    color: black;
+}
