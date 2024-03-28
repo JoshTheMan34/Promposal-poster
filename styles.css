@@ -32,7 +32,7 @@
     width: 3.2in;
     height: 2.5in;
 
-    border: 1px solid black;
+    /* border: 1px solid black; */
 
     display: flex;
     justify-content: center;
@@ -45,7 +45,17 @@
     font-size: 121px;
 }
 
-.test1{
+.green-background{
     background-color: #6aaa64;
-    color: black;
+    color: white;
+}
+
+.grey-background {
+    background-color: #787c7e;
+    color: white;
+}
+
+.yellow-background {
+    background-color: #c9b458;
+    color: white;
 }
